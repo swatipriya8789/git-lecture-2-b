@@ -1,2 +1,4 @@
-age=99
+age=24
 print(age)
+hello
+
