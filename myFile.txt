@@ -1,1 +1,1 @@
-hi this is myfile
+this is another file i.e. conflict2
