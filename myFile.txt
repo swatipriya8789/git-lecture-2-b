@@ -1,1 +1,1 @@
-hi this is myfile of conflicts
+this is confilic1
